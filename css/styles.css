@@ -7,5 +7,22 @@ body {
       border-color: #C490E4;
       height: 2px;
       border-width: 5px;
-      width: 12%;
+      width: 10%;
+  }
+  h1{
+      color: #046582;
+     <!-- text-shadow: 0.5px 0.5px 3px #69c2dd;-->
+     
+  }
+  h3{
+      color: #3f8a8a;
+      letter-spacing: .5px;
+  }
+  h2{
+    color: #6155A6;
+    letter-spacing: 1px;
+  }
+  ul.A
+  {
+      line-height: 1.8;
   }
